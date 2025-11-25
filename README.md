@@ -1,5 +1,5 @@
-# meu-primeiro-projeto
-Meu primeiro projeto feito do zero sem ajuda de professor
+# projeto-cordel
+Projeto Cordel Moderno - Curso em Video
 
 <a href="https://rogeriors.github.io/projeto-cordel/">Abrir Site</a>
 
